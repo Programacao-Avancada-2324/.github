@@ -16,9 +16,10 @@ passport_
 
 ## 🧰 Utilitários
 
-- [🖥️ Instalação e configuração do Git](https://moodle.cee.uma.pt/2223/mod/resource/view.php?id=39473).
+- [👥 Indicação de utilizador de GitHub e constituição de grupo](https://docs.google.com/spreadsheets/d/1rU3q-hLnc_QaORtFOJ3uQgrbzlMe6F9MqyA8LBiRD94).
+- [🖥️ Instalação e configuração do Git](https://moodle.cee.uma.pt/2324/mod/resource/view.php?id=44033).
 
-## Inforamções gerais relativas à UC:
+## Informações gerais relativas à UC:
 
 ### 🗓️ Calendário de Frequências
 
