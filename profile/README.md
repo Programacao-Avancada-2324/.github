@@ -17,7 +17,7 @@ passport_
 ## 🧰 Utilitários
 
 - [👥 Indicação de utilizador de GitHub e constituição de grupo](https://docs.google.com/spreadsheets/d/1rU3q-hLnc_QaORtFOJ3uQgrbzlMe6F9MqyA8LBiRD94).
-- [🖥️ Instalação e configuração do Git](https://moodle.cee.uma.pt/2324/mod/resource/view.php?id=44033).
+- [🖥️ Instalação e configuração do Git](https://moodle.cee.uma.pt/2324/mod/resource/view.php?id=44079).
 
 ## Informações gerais relativas à UC:
 
